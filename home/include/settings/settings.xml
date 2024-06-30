@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<humans>   
+<users>
+
+<id>1</id>
+<tmp>tmp 13</tmp>
+<v>1</v>
+
+<slide_a1>home/data/image/background/slide_a.png</slide_a1>
+<slide_a2>home/data/image/background/slide_a.png</slide_a2>
+<slide_a3>home/data/image/background/slide_a.png</slide_a3>
+<slide_b1>home/data/image/background/slide_b.png</slide_b1>
+<slide_b2>home/data/image/background/slide_b.png</slide_b2>
+<slide_b3>home/data/image/background/slide_b.png</slide_b3>
+<slide_c1>home/data/image/background/slide_c.png</slide_c1>
+<slide_c2>home/data/image/background/slide_c.png</slide_c2>
+<slide_c3>home/data/image/background/slide_c.png</slide_c3>
+
+<judul_slide>SELAMAT DATANG</judul_slide>
+<tombol_slide>TENTANG KAMI SELENGKAPNYA</tombol_slide>
+<link_slide>index.php?p=profil</link_slide>
+
+<tabel_login_home>data_member</tabel_login_home>
+<field_username_login_home>username</field_username_login_home>
+<field_password_login_home>password</field_password_login_home>
+<kodene_home>id_pasien</kodene_home>
+
+</users>
+</humans>
+

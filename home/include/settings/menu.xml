@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<humans>
+<menu><id>1</id><s>0</s><t>s</t><i>fa fa-home</i><n>Home</n><l>?p=home</l></menu>
+<menu><id>2</id><s>0</s><t>s</t><i>fa fa-home</i><n>Profil</n><l>?p=profil</l></menu>
+<!-- <menu><id>3</id><s>0</s><t>s</t><i>fa fa-home</i><n>Galery</n><l>?p=galery</l></menu>
+<menu><id>4</id><s>0</s><t>s</t><i>fa fa-home</i><n>Berita</n><l>?p=berita</l></menu> -->
+<menu><id>4</id><s>0</s><t>s</t><i>fa fa-home</i><n>Latihan</n><l>?p=latihan</l></menu>
+<menu><id>4</id><s>0</s><t>s</t><i>fa fa-home</i><n>Hasil Rekomendasi</n><l>?p=hasil_rekomendasi</l></menu>
+<menu><id>4</id><s>0</s><t>s</t><i>fa fa-home</i><n>Login</n><l>?p=login</l></menu>
+</humans>
